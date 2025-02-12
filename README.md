@@ -8,3 +8,4 @@ i principali comandi sono:
 - **git pull** -> fare il dowload delle modifiche che sono state fatte da altri
 
 *sto imparando qualcosa ;)*
+posso fare meglio però
