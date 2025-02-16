@@ -9,3 +9,10 @@ i principali comandi sono:
 
 *sto imparando qualcosa ;)*
 posso fare meglio però
+
+# aggiunta di qualcosa localmente
+
+ho modificato e aggiunto un file
+se ci sono nuovi file posso usare:
+- **git add .** -> così faciando dico a git di tracciare tutti i file nella cartella (aggiungendo le modifiche fatte)
+- **git add [nome_file]** -> gli di aggiungere al 'tracciamento' quel file specifico
